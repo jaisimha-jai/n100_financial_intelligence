@@ -1,0 +1,720 @@
+company_id,type,rule_id,text,confidence_pct
+ABB,pro,P6,Strong profit growth,85
+ABB,pro,P9,Consistent EPS growth,80
+ABB,pro,P10,Improving ROE trend,75
+ABB,pro,P11,Operating leverage improving,70
+ABB,pro,P12,Low leverage supports growth,70
+ABB,con,C3,Declining margins,80
+ABB,con,C6,Weak interest coverage,85
+ABB,con,C10,Low capital efficiency,80
+ADANIENSOL,pro,P9,Consistent EPS growth,80
+ADANIENSOL,pro,P10,Improving ROE trend,75
+ADANIENSOL,pro,P11,Operating leverage improving,70
+ADANIENSOL,con,C1,High debt levels,85
+ADANIENSOL,con,C3,Declining margins,80
+ADANIENSOL,con,C6,Weak interest coverage,85
+ADANIENSOL,con,C9,Declining EPS,80
+ADANIENSOL,con,C10,Low capital efficiency,80
+ADANIENT,pro,P4,Revenue CAGR above 15%,80
+ADANIENT,pro,P6,Strong profit growth,85
+ADANIENT,pro,P9,Consistent EPS growth,80
+ADANIENT,pro,P10,Improving ROE trend,75
+ADANIENT,pro,P11,Operating leverage improving,70
+ADANIENT,con,C3,Declining margins,80
+ADANIENT,con,C6,Weak interest coverage,85
+ADANIENT,con,C10,Low capital efficiency,80
+ADANIGREEN,pro,P4,Revenue CAGR above 15%,80
+ADANIGREEN,pro,P10,Improving ROE trend,75
+ADANIGREEN,con,C1,High debt levels,85
+ADANIGREEN,con,C3,Declining margins,80
+ADANIGREEN,con,C6,Weak interest coverage,85
+ADANIGREEN,con,C10,Low capital efficiency,80
+ADANIPORTS,pro,P9,Consistent EPS growth,80
+ADANIPORTS,pro,P10,Improving ROE trend,75
+ADANIPORTS,pro,P11,Operating leverage improving,70
+ADANIPORTS,con,C3,Declining margins,80
+ADANIPORTS,con,C6,Weak interest coverage,85
+ADANIPORTS,con,C10,Low capital efficiency,80
+ADANIPOWER,pro,P2,Strong free cash flow over 5 years,85
+ADANIPOWER,pro,P10,Improving ROE trend,75
+ADANIPOWER,con,C3,Declining margins,80
+ADANIPOWER,con,C6,Weak interest coverage,85
+ADANIPOWER,con,C10,Low capital efficiency,80
+AMBUJACEM,pro,P9,Consistent EPS growth,80
+AMBUJACEM,pro,P10,Improving ROE trend,75
+AMBUJACEM,pro,P11,Operating leverage improving,70
+AMBUJACEM,pro,P12,Low leverage supports growth,70
+AMBUJACEM,con,C3,Declining margins,80
+AMBUJACEM,con,C6,Weak interest coverage,85
+AMBUJACEM,con,C10,Low capital efficiency,80
+AMBUJACEM,con,C12,Weak growth (<5%),75
+APOLLOHOSP,pro,P2,Strong free cash flow over 5 years,85
+APOLLOHOSP,pro,P6,Strong profit growth,85
+APOLLOHOSP,pro,P9,Consistent EPS growth,80
+APOLLOHOSP,pro,P10,Improving ROE trend,75
+APOLLOHOSP,pro,P11,Operating leverage improving,70
+APOLLOHOSP,con,C3,Declining margins,80
+APOLLOHOSP,con,C6,Weak interest coverage,85
+APOLLOHOSP,con,C10,Low capital efficiency,80
+ASIANPAINT,pro,P2,Strong free cash flow over 5 years,85
+ASIANPAINT,pro,P9,Consistent EPS growth,80
+ASIANPAINT,pro,P10,Improving ROE trend,75
+ASIANPAINT,pro,P11,Operating leverage improving,70
+ASIANPAINT,pro,P12,Low leverage supports growth,70
+ASIANPAINT,con,C3,Declining margins,80
+ASIANPAINT,con,C6,Weak interest coverage,85
+ASIANPAINT,con,C8,Increasing debt trend,75
+ASIANPAINT,con,C10,Low capital efficiency,80
+ASIANPAINT,con,C12,Weak growth (<5%),75
+ATGL,pro,P4,Revenue CAGR above 15%,80
+ATGL,pro,P6,Strong profit growth,85
+ATGL,pro,P9,Consistent EPS growth,80
+ATGL,pro,P10,Improving ROE trend,75
+ATGL,pro,P11,Operating leverage improving,70
+ATGL,pro,P12,Low leverage supports growth,70
+ATGL,con,C3,Declining margins,80
+ATGL,con,C6,Weak interest coverage,85
+ATGL,con,C10,Low capital efficiency,80
+AXISBANK,pro,P9,Consistent EPS growth,80
+AXISBANK,pro,P10,Improving ROE trend,75
+AXISBANK,pro,P11,Operating leverage improving,70
+AXISBANK,pro,P12,Low leverage supports growth,70
+AXISBANK,con,C3,Declining margins,80
+AXISBANK,con,C6,Weak interest coverage,85
+AXISBANK,con,C8,Increasing debt trend,75
+AXISBANK,con,C10,Low capital efficiency,80
+BAJAJ-AUTO,pro,P2,Strong free cash flow over 5 years,85
+BAJAJ-AUTO,pro,P6,Strong profit growth,85
+BAJAJ-AUTO,pro,P9,Consistent EPS growth,80
+BAJAJ-AUTO,pro,P10,Improving ROE trend,75
+BAJAJ-AUTO,pro,P11,Operating leverage improving,70
+BAJAJ-AUTO,con,C1,High debt levels,85
+BAJAJ-AUTO,con,C3,Declining margins,80
+BAJAJ-AUTO,con,C6,Weak interest coverage,85
+BAJAJ-AUTO,con,C10,Low capital efficiency,80
+BAJAJFINSV,pro,P4,Revenue CAGR above 15%,80
+BAJAJFINSV,pro,P6,Strong profit growth,85
+BAJAJFINSV,pro,P9,Consistent EPS growth,80
+BAJAJFINSV,pro,P10,Improving ROE trend,75
+BAJAJFINSV,pro,P11,Operating leverage improving,70
+BAJAJFINSV,con,C1,High debt levels,85
+BAJAJFINSV,con,C2,Negative cash flow for 3 years,90
+BAJAJFINSV,con,C3,Declining margins,80
+BAJAJFINSV,con,C6,Weak interest coverage,85
+BAJAJFINSV,con,C8,Increasing debt trend,75
+BAJAJFINSV,con,C10,Low capital efficiency,80
+BAJAJHLDNG,pro,P4,Revenue CAGR above 15%,80
+BAJAJHLDNG,pro,P9,Consistent EPS growth,80
+BAJAJHLDNG,pro,P10,Improving ROE trend,75
+BAJAJHLDNG,pro,P12,Low leverage supports growth,70
+BAJAJHLDNG,con,C3,Declining margins,80
+BAJAJHLDNG,con,C6,Weak interest coverage,85
+BAJAJHLDNG,con,C10,Low capital efficiency,80
+BAJFINANCE,pro,P4,Revenue CAGR above 15%,80
+BAJFINANCE,pro,P6,Strong profit growth,85
+BAJFINANCE,pro,P9,Consistent EPS growth,80
+BAJFINANCE,pro,P10,Improving ROE trend,75
+BAJFINANCE,pro,P11,Operating leverage improving,70
+BAJFINANCE,con,C1,High debt levels,85
+BAJFINANCE,con,C2,Negative cash flow for 3 years,90
+BAJFINANCE,con,C3,Declining margins,80
+BAJFINANCE,con,C6,Weak interest coverage,85
+BAJFINANCE,con,C10,Low capital efficiency,80
+BANKBARODA,pro,P6,Strong profit growth,85
+BANKBARODA,pro,P9,Consistent EPS growth,80
+BANKBARODA,pro,P10,Improving ROE trend,75
+BANKBARODA,pro,P11,Operating leverage improving,70
+BANKBARODA,con,C1,High debt levels,85
+BANKBARODA,con,C3,Declining margins,80
+BANKBARODA,con,C6,Weak interest coverage,85
+BANKBARODA,con,C10,Low capital efficiency,80
+BEL,pro,P6,Strong profit growth,85
+BEL,pro,P10,Improving ROE trend,75
+BEL,pro,P11,Operating leverage improving,70
+BEL,con,C1,High debt levels,85
+BEL,con,C3,Declining margins,80
+BEL,con,C6,Weak interest coverage,85
+BEL,con,C10,Low capital efficiency,80
+BHARTIARTL,pro,P9,Consistent EPS growth,80
+BHARTIARTL,pro,P10,Improving ROE trend,75
+BHARTIARTL,pro,P11,Operating leverage improving,70
+BHARTIARTL,con,C3,Declining margins,80
+BHARTIARTL,con,C6,Weak interest coverage,85
+BHARTIARTL,con,C10,Low capital efficiency,80
+BHEL,pro,P10,Improving ROE trend,75
+BHEL,pro,P12,Low leverage supports growth,70
+BHEL,con,C3,Declining margins,80
+BHEL,con,C6,Weak interest coverage,85
+BHEL,con,C8,Increasing debt trend,75
+BHEL,con,C10,Low capital efficiency,80
+BHEL,con,C12,Weak growth (<5%),75
+BOSCHLTD,pro,P2,Strong free cash flow over 5 years,85
+BOSCHLTD,pro,P9,Consistent EPS growth,80
+BOSCHLTD,pro,P10,Improving ROE trend,75
+BOSCHLTD,pro,P12,Low leverage supports growth,70
+BOSCHLTD,con,C3,Declining margins,80
+BOSCHLTD,con,C6,Weak interest coverage,85
+BOSCHLTD,con,C10,Low capital efficiency,80
+BPCL,pro,P6,Strong profit growth,85
+BPCL,pro,P9,Consistent EPS growth,80
+BPCL,pro,P10,Improving ROE trend,75
+BPCL,pro,P11,Operating leverage improving,70
+BPCL,con,C3,Declining margins,80
+BPCL,con,C6,Weak interest coverage,85
+BPCL,con,C10,Low capital efficiency,80
+BRITANNIA,pro,P9,Consistent EPS growth,80
+BRITANNIA,pro,P10,Improving ROE trend,75
+BRITANNIA,pro,P11,Operating leverage improving,70
+BRITANNIA,con,C3,Declining margins,80
+BRITANNIA,con,C6,Weak interest coverage,85
+BRITANNIA,con,C10,Low capital efficiency,80
+CANBK,pro,P4,Revenue CAGR above 15%,80
+CANBK,pro,P6,Strong profit growth,85
+CANBK,pro,P10,Improving ROE trend,75
+CANBK,pro,P11,Operating leverage improving,70
+CANBK,con,C1,High debt levels,85
+CANBK,con,C3,Declining margins,80
+CANBK,con,C6,Weak interest coverage,85
+CANBK,con,C10,Low capital efficiency,80
+CHOLAFIN,pro,P4,Revenue CAGR above 15%,80
+CHOLAFIN,pro,P6,Strong profit growth,85
+CHOLAFIN,pro,P9,Consistent EPS growth,80
+CHOLAFIN,pro,P10,Improving ROE trend,75
+CHOLAFIN,pro,P11,Operating leverage improving,70
+CHOLAFIN,con,C1,High debt levels,85
+CHOLAFIN,con,C2,Negative cash flow for 3 years,90
+CHOLAFIN,con,C3,Declining margins,80
+CHOLAFIN,con,C6,Weak interest coverage,85
+CHOLAFIN,con,C8,Increasing debt trend,75
+CHOLAFIN,con,C10,Low capital efficiency,80
+CIPLA,pro,P2,Strong free cash flow over 5 years,85
+CIPLA,pro,P6,Strong profit growth,85
+CIPLA,pro,P9,Consistent EPS growth,80
+CIPLA,pro,P10,Improving ROE trend,75
+CIPLA,pro,P11,Operating leverage improving,70
+CIPLA,pro,P12,Low leverage supports growth,70
+CIPLA,con,C3,Declining margins,80
+CIPLA,con,C6,Weak interest coverage,85
+CIPLA,con,C10,Low capital efficiency,80
+COALINDIA,pro,P2,Strong free cash flow over 5 years,85
+COALINDIA,pro,P9,Consistent EPS growth,80
+COALINDIA,pro,P10,Improving ROE trend,75
+COALINDIA,pro,P11,Operating leverage improving,70
+COALINDIA,pro,P12,Low leverage supports growth,70
+COALINDIA,con,C3,Declining margins,80
+COALINDIA,con,C6,Weak interest coverage,85
+COALINDIA,con,C10,Low capital efficiency,80
+DABUR,pro,P2,Strong free cash flow over 5 years,85
+DABUR,pro,P9,Consistent EPS growth,80
+DABUR,pro,P10,Improving ROE trend,75
+DABUR,pro,P12,Low leverage supports growth,70
+DABUR,con,C3,Declining margins,80
+DABUR,con,C6,Weak interest coverage,85
+DABUR,con,C8,Increasing debt trend,75
+DABUR,con,C9,Declining EPS,80
+DABUR,con,C10,Low capital efficiency,80
+DIVISLAB,pro,P9,Consistent EPS growth,80
+DIVISLAB,pro,P10,Improving ROE trend,75
+DIVISLAB,pro,P12,Low leverage supports growth,70
+DIVISLAB,con,C3,Declining margins,80
+DIVISLAB,con,C6,Weak interest coverage,85
+DIVISLAB,con,C9,Declining EPS,80
+DIVISLAB,con,C10,Low capital efficiency,80
+DLF,pro,P2,Strong free cash flow over 5 years,85
+DLF,pro,P10,Improving ROE trend,75
+DLF,pro,P11,Operating leverage improving,70
+DLF,pro,P12,Low leverage supports growth,70
+DLF,con,C3,Declining margins,80
+DLF,con,C6,Weak interest coverage,85
+DLF,con,C10,Low capital efficiency,80
+DLF,con,C12,Weak growth (<5%),75
+DMART,pro,P4,Revenue CAGR above 15%,80
+DMART,pro,P6,Strong profit growth,85
+DMART,pro,P9,Consistent EPS growth,80
+DMART,pro,P10,Improving ROE trend,75
+DMART,pro,P11,Operating leverage improving,70
+DMART,pro,P12,Low leverage supports growth,70
+DMART,con,C3,Declining margins,80
+DMART,con,C6,Weak interest coverage,85
+DMART,con,C10,Low capital efficiency,80
+DRREDDY,pro,P2,Strong free cash flow over 5 years,85
+DRREDDY,pro,P6,Strong profit growth,85
+DRREDDY,pro,P9,Consistent EPS growth,80
+DRREDDY,pro,P10,Improving ROE trend,75
+DRREDDY,pro,P11,Operating leverage improving,70
+DRREDDY,pro,P12,Low leverage supports growth,70
+DRREDDY,con,C3,Declining margins,80
+DRREDDY,con,C6,Weak interest coverage,85
+DRREDDY,con,C10,Low capital efficiency,80
+EICHERMOT,pro,P2,Strong free cash flow over 5 years,85
+EICHERMOT,pro,P9,Consistent EPS growth,80
+EICHERMOT,pro,P10,Improving ROE trend,75
+EICHERMOT,pro,P11,Operating leverage improving,70
+EICHERMOT,pro,P12,Low leverage supports growth,70
+EICHERMOT,con,C3,Declining margins,80
+EICHERMOT,con,C6,Weak interest coverage,85
+EICHERMOT,con,C8,Increasing debt trend,75
+EICHERMOT,con,C10,Low capital efficiency,80
+GAIL,pro,P9,Consistent EPS growth,80
+GAIL,pro,P10,Improving ROE trend,75
+GAIL,pro,P12,Low leverage supports growth,70
+GAIL,con,C3,Declining margins,80
+GAIL,con,C6,Weak interest coverage,85
+GAIL,con,C8,Increasing debt trend,75
+GAIL,con,C10,Low capital efficiency,80
+GODREJCP,pro,P10,Improving ROE trend,75
+GODREJCP,pro,P12,Low leverage supports growth,70
+GODREJCP,con,C3,Declining margins,80
+GODREJCP,con,C4,Company is loss-making,90
+GODREJCP,con,C6,Weak interest coverage,85
+GODREJCP,con,C9,Declining EPS,80
+GODREJCP,con,C10,Low capital efficiency,80
+GRASIM,pro,P6,Strong profit growth,85
+GRASIM,pro,P9,Consistent EPS growth,80
+GRASIM,pro,P10,Improving ROE trend,75
+GRASIM,pro,P11,Operating leverage improving,70
+GRASIM,con,C3,Declining margins,80
+GRASIM,con,C6,Weak interest coverage,85
+GRASIM,con,C8,Increasing debt trend,75
+GRASIM,con,C9,Declining EPS,80
+GRASIM,con,C10,Low capital efficiency,80
+HAL,pro,P6,Strong profit growth,85
+HAL,pro,P9,Consistent EPS growth,80
+HAL,pro,P10,Improving ROE trend,75
+HAL,pro,P11,Operating leverage improving,70
+HAL,con,C3,Declining margins,80
+HAL,con,C6,Weak interest coverage,85
+HAL,con,C8,Increasing debt trend,75
+HAL,con,C10,Low capital efficiency,80
+HAVELLS,pro,P9,Consistent EPS growth,80
+HAVELLS,pro,P10,Improving ROE trend,75
+HAVELLS,pro,P12,Low leverage supports growth,70
+HAVELLS,con,C3,Declining margins,80
+HAVELLS,con,C6,Weak interest coverage,85
+HAVELLS,con,C10,Low capital efficiency,80
+HCLTECH,pro,P2,Strong free cash flow over 5 years,85
+HCLTECH,pro,P9,Consistent EPS growth,80
+HCLTECH,pro,P10,Improving ROE trend,75
+HCLTECH,pro,P12,Low leverage supports growth,70
+HCLTECH,con,C3,Declining margins,80
+HCLTECH,con,C6,Weak interest coverage,85
+HCLTECH,con,C10,Low capital efficiency,80
+HDFCBANK,pro,P4,Revenue CAGR above 15%,80
+HDFCBANK,pro,P6,Strong profit growth,85
+HDFCBANK,pro,P9,Consistent EPS growth,80
+HDFCBANK,pro,P10,Improving ROE trend,75
+HDFCBANK,pro,P11,Operating leverage improving,70
+HDFCBANK,con,C1,High debt levels,85
+HDFCBANK,con,C3,Declining margins,80
+HDFCBANK,con,C6,Weak interest coverage,85
+HDFCBANK,con,C10,Low capital efficiency,80
+HDFCLIFE,pro,P4,Revenue CAGR above 15%,80
+HDFCLIFE,pro,P9,Consistent EPS growth,80
+HDFCLIFE,pro,P10,Improving ROE trend,75
+HDFCLIFE,pro,P12,Low leverage supports growth,70
+HDFCLIFE,con,C3,Declining margins,80
+HDFCLIFE,con,C6,Weak interest coverage,85
+HDFCLIFE,con,C10,Low capital efficiency,80
+HEROMOTOCO,pro,P2,Strong free cash flow over 5 years,85
+HEROMOTOCO,pro,P9,Consistent EPS growth,80
+HEROMOTOCO,pro,P10,Improving ROE trend,75
+HEROMOTOCO,pro,P12,Low leverage supports growth,70
+HEROMOTOCO,con,C3,Declining margins,80
+HEROMOTOCO,con,C6,Weak interest coverage,85
+HEROMOTOCO,con,C10,Low capital efficiency,80
+HINDALCO,pro,P9,Consistent EPS growth,80
+HINDALCO,pro,P10,Improving ROE trend,75
+HINDALCO,pro,P11,Operating leverage improving,70
+HINDALCO,con,C3,Declining margins,80
+HINDALCO,con,C6,Weak interest coverage,85
+HINDALCO,con,C9,Declining EPS,80
+HINDALCO,con,C10,Low capital efficiency,80
+HINDUNILVR,pro,P2,Strong free cash flow over 5 years,85
+HINDUNILVR,pro,P9,Consistent EPS growth,80
+HINDUNILVR,pro,P10,Improving ROE trend,75
+HINDUNILVR,pro,P11,Operating leverage improving,70
+HINDUNILVR,pro,P12,Low leverage supports growth,70
+HINDUNILVR,con,C3,Declining margins,80
+HINDUNILVR,con,C6,Weak interest coverage,85
+HINDUNILVR,con,C8,Increasing debt trend,75
+HINDUNILVR,con,C10,Low capital efficiency,80
+ICICIBANK,pro,P6,Strong profit growth,85
+ICICIBANK,pro,P9,Consistent EPS growth,80
+ICICIBANK,pro,P10,Improving ROE trend,75
+ICICIBANK,pro,P11,Operating leverage improving,70
+ICICIBANK,con,C1,High debt levels,85
+ICICIBANK,con,C3,Declining margins,80
+ICICIBANK,con,C6,Weak interest coverage,85
+ICICIBANK,con,C10,Low capital efficiency,80
+ICICIGI,pro,P2,Strong free cash flow over 5 years,85
+ICICIGI,pro,P9,Consistent EPS growth,80
+ICICIGI,pro,P10,Improving ROE trend,75
+ICICIGI,pro,P11,Operating leverage improving,70
+ICICIGI,pro,P12,Low leverage supports growth,70
+ICICIGI,con,C3,Declining margins,80
+ICICIGI,con,C6,Weak interest coverage,85
+ICICIGI,con,C10,Low capital efficiency,80
+ICICIPRULI,pro,P4,Revenue CAGR above 15%,80
+ICICIPRULI,pro,P9,Consistent EPS growth,80
+ICICIPRULI,pro,P10,Improving ROE trend,75
+ICICIPRULI,pro,P12,Low leverage supports growth,70
+ICICIPRULI,con,C3,Declining margins,80
+ICICIPRULI,con,C6,Weak interest coverage,85
+ICICIPRULI,con,C10,Low capital efficiency,80
+INDIGO,pro,P2,Strong free cash flow over 5 years,85
+INDIGO,pro,P4,Revenue CAGR above 15%,80
+INDIGO,pro,P10,Improving ROE trend,75
+INDIGO,con,C1,High debt levels,85
+INDIGO,con,C3,Declining margins,80
+INDIGO,con,C6,Weak interest coverage,85
+INDIGO,con,C10,Low capital efficiency,80
+INDUSINDBK,pro,P6,Strong profit growth,85
+INDUSINDBK,pro,P10,Improving ROE trend,75
+INDUSINDBK,pro,P11,Operating leverage improving,70
+INDUSINDBK,pro,P12,Low leverage supports growth,70
+INDUSINDBK,con,C3,Declining margins,80
+INDUSINDBK,con,C6,Weak interest coverage,85
+INDUSINDBK,con,C10,Low capital efficiency,80
+INFY,pro,P2,Strong free cash flow over 5 years,85
+INFY,pro,P6,Strong profit growth,85
+INFY,pro,P9,Consistent EPS growth,80
+INFY,pro,P10,Improving ROE trend,75
+INFY,pro,P11,Operating leverage improving,70
+INFY,con,C1,High debt levels,85
+INFY,con,C3,Declining margins,80
+INFY,con,C6,Weak interest coverage,85
+INFY,con,C10,Low capital efficiency,80
+IOC,pro,P9,Consistent EPS growth,80
+IOC,pro,P10,Improving ROE trend,75
+IOC,pro,P11,Operating leverage improving,70
+IOC,pro,P12,Low leverage supports growth,70
+IOC,con,C3,Declining margins,80
+IOC,con,C6,Weak interest coverage,85
+IOC,con,C10,Low capital efficiency,80
+IRCTC,pro,P10,Improving ROE trend,75
+IRCTC,con,C3,Declining margins,80
+IRCTC,con,C6,Weak interest coverage,85
+IRCTC,con,C10,Low capital efficiency,80
+IRFC,pro,P6,Strong profit growth,85
+IRFC,pro,P9,Consistent EPS growth,80
+IRFC,pro,P10,Improving ROE trend,75
+IRFC,pro,P11,Operating leverage improving,70
+IRFC,pro,P12,Low leverage supports growth,70
+IRFC,con,C3,Declining margins,80
+IRFC,con,C6,Weak interest coverage,85
+IRFC,con,C10,Low capital efficiency,80
+ITC,pro,P2,Strong free cash flow over 5 years,85
+ITC,pro,P6,Strong profit growth,85
+ITC,pro,P9,Consistent EPS growth,80
+ITC,pro,P10,Improving ROE trend,75
+ITC,pro,P11,Operating leverage improving,70
+ITC,con,C1,High debt levels,85
+ITC,con,C3,Declining margins,80
+ITC,con,C6,Weak interest coverage,85
+ITC,con,C9,Declining EPS,80
+ITC,con,C10,Low capital efficiency,80
+JINDALSTEL,pro,P9,Consistent EPS growth,80
+JINDALSTEL,pro,P10,Improving ROE trend,75
+JINDALSTEL,pro,P11,Operating leverage improving,70
+JINDALSTEL,pro,P12,Low leverage supports growth,70
+JINDALSTEL,con,C3,Declining margins,80
+JINDALSTEL,con,C6,Weak interest coverage,85
+JINDALSTEL,con,C10,Low capital efficiency,80
+JIOFIN,pro,P9,Consistent EPS growth,80
+JIOFIN,con,C6,Weak interest coverage,85
+JIOFIN,con,C10,Low capital efficiency,80
+JSWENERGY,pro,P3,Debt-free company,95
+JSWENERGY,pro,P10,Improving ROE trend,75
+JSWENERGY,pro,P12,Low leverage supports growth,70
+JSWENERGY,con,C2,Negative cash flow for 3 years,90
+JSWENERGY,con,C3,Declining margins,80
+JSWENERGY,con,C6,Weak interest coverage,85
+JSWENERGY,con,C10,Low capital efficiency,80
+JSWENERGY,con,C12,Weak growth (<5%),75
+JSWSTEEL,pro,P6,Strong profit growth,85
+JSWSTEEL,pro,P9,Consistent EPS growth,80
+JSWSTEEL,pro,P10,Improving ROE trend,75
+JSWSTEEL,pro,P11,Operating leverage improving,70
+JSWSTEEL,con,C3,Declining margins,80
+JSWSTEEL,con,C6,Weak interest coverage,85
+JSWSTEEL,con,C8,Increasing debt trend,75
+JSWSTEEL,con,C10,Low capital efficiency,80
+KOTAKBANK,pro,P4,Revenue CAGR above 15%,80
+KOTAKBANK,pro,P9,Consistent EPS growth,80
+KOTAKBANK,pro,P10,Improving ROE trend,75
+KOTAKBANK,con,C3,Declining margins,80
+KOTAKBANK,con,C6,Weak interest coverage,85
+KOTAKBANK,con,C10,Low capital efficiency,80
+LICI,pro,P6,Strong profit growth,85
+LICI,pro,P9,Consistent EPS growth,80
+LICI,pro,P10,Improving ROE trend,75
+LICI,pro,P11,Operating leverage improving,70
+LICI,con,C1,High debt levels,85
+LICI,con,C3,Declining margins,80
+LICI,con,C6,Weak interest coverage,85
+LICI,con,C10,Low capital efficiency,80
+LODHA,pro,P3,Debt-free company,95
+LODHA,pro,P6,Strong profit growth,85
+LODHA,pro,P9,Consistent EPS growth,80
+LODHA,pro,P10,Improving ROE trend,75
+LODHA,pro,P11,Operating leverage improving,70
+LODHA,pro,P12,Low leverage supports growth,70
+LODHA,con,C3,Declining margins,80
+LODHA,con,C6,Weak interest coverage,85
+LODHA,con,C10,Low capital efficiency,80
+LT,pro,P9,Consistent EPS growth,80
+LT,pro,P10,Improving ROE trend,75
+LT,pro,P11,Operating leverage improving,70
+LT,pro,P12,Low leverage supports growth,70
+LT,con,C3,Declining margins,80
+LT,con,C6,Weak interest coverage,85
+LT,con,C10,Low capital efficiency,80
+LT,con,C12,Weak growth (<5%),75
+LTIM,pro,P2,Strong free cash flow over 5 years,85
+LTIM,pro,P9,Consistent EPS growth,80
+LTIM,pro,P10,Improving ROE trend,75
+LTIM,pro,P11,Operating leverage improving,70
+LTIM,pro,P12,Low leverage supports growth,70
+LTIM,con,C3,Declining margins,80
+LTIM,con,C6,Weak interest coverage,85
+LTIM,con,C8,Increasing debt trend,75
+LTIM,con,C10,Low capital efficiency,80
+M&M,pro,P4,Revenue CAGR above 15%,80
+M&M,pro,P6,Strong profit growth,85
+M&M,pro,P9,Consistent EPS growth,80
+M&M,pro,P10,Improving ROE trend,75
+M&M,pro,P12,Low leverage supports growth,70
+M&M,con,C3,Declining margins,80
+M&M,con,C6,Weak interest coverage,85
+M&M,con,C8,Increasing debt trend,75
+M&M,con,C10,Low capital efficiency,80
+MARUTI,pro,P2,Strong free cash flow over 5 years,85
+MARUTI,pro,P9,Consistent EPS growth,80
+MARUTI,pro,P10,Improving ROE trend,75
+MARUTI,pro,P11,Operating leverage improving,70
+MARUTI,con,C3,Declining margins,80
+MARUTI,con,C6,Weak interest coverage,85
+MARUTI,con,C10,Low capital efficiency,80
+MOTHERSON,pro,P2,Strong free cash flow over 5 years,85
+MOTHERSON,pro,P9,Consistent EPS growth,80
+MOTHERSON,pro,P10,Improving ROE trend,75
+MOTHERSON,pro,P12,Low leverage supports growth,70
+MOTHERSON,con,C3,Declining margins,80
+MOTHERSON,con,C6,Weak interest coverage,85
+MOTHERSON,con,C10,Low capital efficiency,80
+NAUKRI,pro,P9,Consistent EPS growth,80
+NAUKRI,pro,P10,Improving ROE trend,75
+NAUKRI,con,C3,Declining margins,80
+NAUKRI,con,C6,Weak interest coverage,85
+NAUKRI,con,C10,Low capital efficiency,80
+NESTLEIND,pro,P10,Improving ROE trend,75
+NESTLEIND,pro,P12,Low leverage supports growth,70
+NESTLEIND,con,C3,Declining margins,80
+NESTLEIND,con,C6,Weak interest coverage,85
+NESTLEIND,con,C8,Increasing debt trend,75
+NESTLEIND,con,C10,Low capital efficiency,80
+NHPC,pro,P9,Consistent EPS growth,80
+NHPC,pro,P10,Improving ROE trend,75
+NHPC,pro,P11,Operating leverage improving,70
+NHPC,pro,P12,Low leverage supports growth,70
+NHPC,con,C3,Declining margins,80
+NHPC,con,C6,Weak interest coverage,85
+NHPC,con,C10,Low capital efficiency,80
+NTPC,pro,P9,Consistent EPS growth,80
+NTPC,pro,P10,Improving ROE trend,75
+NTPC,pro,P11,Operating leverage improving,70
+NTPC,con,C3,Declining margins,80
+NTPC,con,C6,Weak interest coverage,85
+NTPC,con,C8,Increasing debt trend,75
+NTPC,con,C9,Declining EPS,80
+NTPC,con,C10,Low capital efficiency,80
+NTPC,con,C12,Weak growth (<5%),75
+ONGC,pro,P2,Strong free cash flow over 5 years,85
+ONGC,pro,P9,Consistent EPS growth,80
+ONGC,pro,P10,Improving ROE trend,75
+ONGC,con,C3,Declining margins,80
+ONGC,con,C6,Weak interest coverage,85
+ONGC,con,C10,Low capital efficiency,80
+PFC,pro,P9,Consistent EPS growth,80
+PFC,pro,P10,Improving ROE trend,75
+PFC,pro,P11,Operating leverage improving,70
+PFC,pro,P12,Low leverage supports growth,70
+PFC,con,C3,Declining margins,80
+PFC,con,C6,Weak interest coverage,85
+PFC,con,C10,Low capital efficiency,80
+PIDILITIND,pro,P9,Consistent EPS growth,80
+PIDILITIND,pro,P10,Improving ROE trend,75
+PIDILITIND,pro,P11,Operating leverage improving,70
+PIDILITIND,con,C1,High debt levels,85
+PIDILITIND,con,C3,Declining margins,80
+PIDILITIND,con,C6,Weak interest coverage,85
+PIDILITIND,con,C10,Low capital efficiency,80
+PNB,pro,P9,Consistent EPS growth,80
+PNB,pro,P10,Improving ROE trend,75
+PNB,pro,P11,Operating leverage improving,70
+PNB,pro,P12,Low leverage supports growth,70
+PNB,con,C3,Declining margins,80
+PNB,con,C6,Weak interest coverage,85
+PNB,con,C10,Low capital efficiency,80
+POWERGRID,pro,P2,Strong free cash flow over 5 years,85
+POWERGRID,pro,P6,Strong profit growth,85
+POWERGRID,pro,P9,Consistent EPS growth,80
+POWERGRID,pro,P10,Improving ROE trend,75
+POWERGRID,pro,P11,Operating leverage improving,70
+POWERGRID,con,C1,High debt levels,85
+POWERGRID,con,C3,Declining margins,80
+POWERGRID,con,C6,Weak interest coverage,85
+POWERGRID,con,C8,Increasing debt trend,75
+POWERGRID,con,C9,Declining EPS,80
+POWERGRID,con,C10,Low capital efficiency,80
+POWERGRID,con,C12,Weak growth (<5%),75
+RECLTD,pro,P9,Consistent EPS growth,80
+RECLTD,pro,P10,Improving ROE trend,75
+RECLTD,con,C2,Negative cash flow for 3 years,90
+RECLTD,con,C3,Declining margins,80
+RECLTD,con,C6,Weak interest coverage,85
+RECLTD,con,C9,Declining EPS,80
+RECLTD,con,C10,Low capital efficiency,80
+RECLTD,con,C12,Weak growth (<5%),75
+RELIANCE,pro,P9,Consistent EPS growth,80
+RELIANCE,pro,P10,Improving ROE trend,75
+RELIANCE,pro,P11,Operating leverage improving,70
+RELIANCE,con,C1,High debt levels,85
+RELIANCE,con,C3,Declining margins,80
+RELIANCE,con,C6,Weak interest coverage,85
+RELIANCE,con,C10,Low capital efficiency,80
+SBILIFE,pro,P9,Consistent EPS growth,80
+SBILIFE,pro,P10,Improving ROE trend,75
+SBILIFE,pro,P11,Operating leverage improving,70
+SBILIFE,con,C3,Declining margins,80
+SBILIFE,con,C6,Weak interest coverage,85
+SBILIFE,con,C10,Low capital efficiency,80
+SHREECEM,pro,P3,Debt-free company,95
+SHREECEM,pro,P4,Revenue CAGR above 15%,80
+SHREECEM,pro,P9,Consistent EPS growth,80
+SHREECEM,pro,P10,Improving ROE trend,75
+SHREECEM,pro,P12,Low leverage supports growth,70
+SHREECEM,con,C3,Declining margins,80
+SHREECEM,con,C6,Weak interest coverage,85
+SHREECEM,con,C8,Increasing debt trend,75
+SHREECEM,con,C10,Low capital efficiency,80
+SHRIRAMFIN,pro,P9,Consistent EPS growth,80
+SHRIRAMFIN,pro,P10,Improving ROE trend,75
+SHRIRAMFIN,pro,P11,Operating leverage improving,70
+SHRIRAMFIN,pro,P12,Low leverage supports growth,70
+SHRIRAMFIN,con,C2,Negative cash flow for 3 years,90
+SHRIRAMFIN,con,C3,Declining margins,80
+SHRIRAMFIN,con,C6,Weak interest coverage,85
+SHRIRAMFIN,con,C10,Low capital efficiency,80
+SIEMENS,pro,P4,Revenue CAGR above 15%,80
+SIEMENS,pro,P6,Strong profit growth,85
+SIEMENS,pro,P9,Consistent EPS growth,80
+SIEMENS,pro,P10,Improving ROE trend,75
+SIEMENS,pro,P11,Operating leverage improving,70
+SIEMENS,con,C1,High debt levels,85
+SIEMENS,con,C3,Declining margins,80
+SIEMENS,con,C6,Weak interest coverage,85
+SIEMENS,con,C10,Low capital efficiency,80
+SUNPHARMA,pro,P4,Revenue CAGR above 15%,80
+SUNPHARMA,pro,P9,Consistent EPS growth,80
+SUNPHARMA,pro,P10,Improving ROE trend,75
+SUNPHARMA,pro,P11,Operating leverage improving,70
+SUNPHARMA,pro,P12,Low leverage supports growth,70
+SUNPHARMA,con,C3,Declining margins,80
+SUNPHARMA,con,C6,Weak interest coverage,85
+SUNPHARMA,con,C10,Low capital efficiency,80
+TATACONSUM,pro,P2,Strong free cash flow over 5 years,85
+TATACONSUM,pro,P6,Strong profit growth,85
+TATACONSUM,pro,P9,Consistent EPS growth,80
+TATACONSUM,pro,P10,Improving ROE trend,75
+TATACONSUM,pro,P11,Operating leverage improving,70
+TATACONSUM,pro,P12,Low leverage supports growth,70
+TATACONSUM,con,C3,Declining margins,80
+TATACONSUM,con,C6,Weak interest coverage,85
+TATACONSUM,con,C10,Low capital efficiency,80
+TATAMOTORS,pro,P6,Strong profit growth,85
+TATAMOTORS,pro,P9,Consistent EPS growth,80
+TATAMOTORS,pro,P10,Improving ROE trend,75
+TATAMOTORS,pro,P11,Operating leverage improving,70
+TATAMOTORS,pro,P12,Low leverage supports growth,70
+TATAMOTORS,con,C3,Declining margins,80
+TATAMOTORS,con,C6,Weak interest coverage,85
+TATAMOTORS,con,C8,Increasing debt trend,75
+TATAMOTORS,con,C10,Low capital efficiency,80
+TATAPOWER,pro,P10,Improving ROE trend,75
+TATAPOWER,con,C3,Declining margins,80
+TATAPOWER,con,C6,Weak interest coverage,85
+TATAPOWER,con,C10,Low capital efficiency,80
+TATASTEEL,pro,P2,Strong free cash flow over 5 years,85
+TATASTEEL,pro,P4,Revenue CAGR above 15%,80
+TATASTEEL,pro,P9,Consistent EPS growth,80
+TATASTEEL,pro,P10,Improving ROE trend,75
+TATASTEEL,con,C3,Declining margins,80
+TATASTEEL,con,C6,Weak interest coverage,85
+TATASTEEL,con,C10,Low capital efficiency,80
+TCS,pro,P2,Strong free cash flow over 5 years,85
+TCS,pro,P10,Improving ROE trend,75
+TCS,con,C3,Declining margins,80
+TCS,con,C4,Company is loss-making,90
+TCS,con,C6,Weak interest coverage,85
+TCS,con,C8,Increasing debt trend,75
+TCS,con,C9,Declining EPS,80
+TCS,con,C10,Low capital efficiency,80
+TECHM,pro,P2,Strong free cash flow over 5 years,85
+TECHM,pro,P9,Consistent EPS growth,80
+TECHM,pro,P10,Improving ROE trend,75
+TECHM,pro,P12,Low leverage supports growth,70
+TECHM,con,C3,Declining margins,80
+TECHM,con,C6,Weak interest coverage,85
+TECHM,con,C10,Low capital efficiency,80
+TITAN,pro,P9,Consistent EPS growth,80
+TITAN,pro,P10,Improving ROE trend,75
+TITAN,pro,P12,Low leverage supports growth,70
+TITAN,con,C3,Declining margins,80
+TITAN,con,C6,Weak interest coverage,85
+TITAN,con,C9,Declining EPS,80
+TITAN,con,C10,Low capital efficiency,80
+TITAN,con,C12,Weak growth (<5%),75
+TORNTPHARM,pro,P2,Strong free cash flow over 5 years,85
+TORNTPHARM,pro,P4,Revenue CAGR above 15%,80
+TORNTPHARM,pro,P6,Strong profit growth,85
+TORNTPHARM,pro,P9,Consistent EPS growth,80
+TORNTPHARM,pro,P10,Improving ROE trend,75
+TORNTPHARM,pro,P11,Operating leverage improving,70
+TORNTPHARM,con,C3,Declining margins,80
+TORNTPHARM,con,C6,Weak interest coverage,85
+TORNTPHARM,con,C8,Increasing debt trend,75
+TORNTPHARM,con,C10,Low capital efficiency,80
+TRENT,pro,P6,Strong profit growth,85
+TRENT,pro,P9,Consistent EPS growth,80
+TRENT,pro,P10,Improving ROE trend,75
+TRENT,pro,P11,Operating leverage improving,70
+TRENT,con,C3,Declining margins,80
+TRENT,con,C6,Weak interest coverage,85
+TRENT,con,C10,Low capital efficiency,80
+TVSMOTOR,pro,P4,Revenue CAGR above 15%,80
+TVSMOTOR,pro,P6,Strong profit growth,85
+TVSMOTOR,pro,P10,Improving ROE trend,75
+TVSMOTOR,pro,P11,Operating leverage improving,70
+TVSMOTOR,pro,P12,Low leverage supports growth,70
+TVSMOTOR,con,C2,Negative cash flow for 3 years,90
+TVSMOTOR,con,C3,Declining margins,80
+TVSMOTOR,con,C6,Weak interest coverage,85
+TVSMOTOR,con,C10,Low capital efficiency,80
+ULTRACEMCO,pro,P2,Strong free cash flow over 5 years,85
+ULTRACEMCO,pro,P4,Revenue CAGR above 15%,80
+ULTRACEMCO,pro,P9,Consistent EPS growth,80
+ULTRACEMCO,pro,P10,Improving ROE trend,75
+ULTRACEMCO,pro,P11,Operating leverage improving,70
+ULTRACEMCO,con,C1,High debt levels,85
+ULTRACEMCO,con,C3,Declining margins,80
+ULTRACEMCO,con,C6,Weak interest coverage,85
+ULTRACEMCO,con,C10,Low capital efficiency,80
+UNIONBANK,pro,P6,Strong profit growth,85
+UNIONBANK,pro,P9,Consistent EPS growth,80
+UNIONBANK,pro,P10,Improving ROE trend,75
+UNIONBANK,pro,P11,Operating leverage improving,70
+UNIONBANK,pro,P12,Low leverage supports growth,70
+UNIONBANK,con,C3,Declining margins,80
+UNIONBANK,con,C6,Weak interest coverage,85
+UNIONBANK,con,C10,Low capital efficiency,80
